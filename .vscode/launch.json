@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dewas/Desktop/Learning C/Learning-C/Codechef/Cource",
-      "program": "c:/Users/dewas/Desktop/Learning C/Learning-C/Codechef/Cource/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
