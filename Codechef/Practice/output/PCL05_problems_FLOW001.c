@@ -23,3 +23,22 @@
 // �
 // B and display the sum in a new line.
 
+
+
+
+#include <stdio.h>
+
+int main() {
+    int t;
+    scanf("%d", &t);
+
+    // Loop for each test case
+    while (t--) {
+        int a, b , s;
+
+        scanf("%d %d", &a, &b);
+        s = a + b ;
+        printf("%d\n",s);
+        // Your code for each test case goes here 
+    }
+}
